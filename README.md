@@ -9,7 +9,7 @@ https://bustabit-sim.rob.social/  or
 https://mtihc.github.io/bustabit-script-simulator/
 
 Discord: https://discord.gg/BjqUuGw8mw
-YouTube video: 
+YouTube video: https://youtu.be/j3OSs_mam_8
 
 /* HOW THE SCRIPT WORKS:
 
