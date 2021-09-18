@@ -8,6 +8,7 @@ Please test bustabit scripts on:
 https://bustabit-sim.rob.social/  or
 https://mtihc.github.io/bustabit-script-simulator/
 
+Discord: https://discord.gg/BjqUuGw8mw
 YouTube video: 
 
 /* HOW THE SCRIPT WORKS:
