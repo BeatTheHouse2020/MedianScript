@@ -3,6 +3,12 @@ Median Script For Crash
 
 This was a script developed for the popular gambling game Crash. 
 
+Please test bustabit scripts on:
+
+https://bustabit-sim.rob.social/  or
+https://mtihc.github.io/bustabit-script-simulator/
+
+YouTube video: 
 
 /* HOW THE SCRIPT WORKS:
 
