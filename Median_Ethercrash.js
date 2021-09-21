@@ -1,5 +1,5 @@
 var configStartingBet = 1;   // starting bet 1 ethos
-var configStartBetThreshold = 4;  //Start at 10 under the median of 1.97
+var configStartBetThreshold = 10;  //Start at 10 under the median of 1.97
 var configBetIncreaseThreshold=8; //how many losses before we go to the next level of betting
 var configBetFactor=10; //multiplier for going to next level of bet increase
 
